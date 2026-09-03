@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,35:6A0DAD,70:9B59B6,100:1B1464&height=280&section=header&text=Muhammad%20Faizan%20Farooq&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descSize=20&descColor=FFFFFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Science+%26+Machine+Learning;Turning+Data+Into+Decisions;Building+Reliable%2C+Scalable+Models;Python+%7C+PyTorch+%7C+TensorFlow" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Data+Science+%26+Machine+Learning;Turning+Data+Into+Decisions;Building+Reliable%2C+Scalable+Models;Python+%7C+PyTorch+%7C+TensorFlow" />
 
 <br>
 
@@ -90,3 +90,4 @@ My work is centered on deep learning, computer vision, and agentic AI systems, w
 **⭐ From [faizanjutt473](https://github.com/faizanjutt473) — Let's build something intelligent together!**
 
 </div>
+
