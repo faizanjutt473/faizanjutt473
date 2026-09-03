@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003B6F,100:0074D9&height=280&section=header&text=Muhammad%20Faizan%20Farooq&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descSize=20&descColor=7FDBFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:0D1117,100:001F3F&height=280&section=header&text=Muhammad%20Faizan%20Farooq&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descSize=20&descColor=0074D9" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=0074D9&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Data+Science+%26+AI+Enthusiast;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%90%8D+Python+%7C+PyTorch+%7C+TensorFlow;%E2%9A%A1+Agentic+AI+%7C+FastAPI+Developer" />
 
@@ -82,7 +82,7 @@ My work is centered on deep learning, computer vision, and agentic AI systems, w
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0074D9,50:003B6F,100:001F3F&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:001F3F,50:0D1117,100:000000&height=150&section=footer&animation=twinkling"/>
 
 **⭐ From [faizanjutt473](https://github.com/faizanjutt473) — Let's build something intelligent together!**
 
