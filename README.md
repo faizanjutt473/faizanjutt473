@@ -1,30 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=280&section=header&text=Muhammad%20Faizan%20Farooq&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descSize=20&descColor=00F7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003B6F,100:0074D9&height=280&section=header&text=Muhammad%20Faizan%20Farooq&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descSize=20&descColor=7FDBFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Data+Science+%26+AI+Enthusiast;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%90%8D+Python+%7C+PyTorch+%7C+TensorFlow;%E2%9A%A1+Agentic+AI+%7C+FastAPI+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=0074D9&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Data+Science+%26+AI+Enthusiast;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%90%8D+Python+%7C+PyTorch+%7C+TensorFlow;%E2%9A%A1+Agentic+AI+%7C+FastAPI+Developer" />
 
 <br>
 
-<img src="https://img.shields.io/badge/VIP%20DEVELOPER-FFD700?style=for-the-badge&logo=starship&logoColor=black"/>
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00F7FF?style=for-the-badge&logo=handshake&logoColor=black"/>
+<img src="https://img.shields.io/badge/PROFESSIONAL%20ATTITUDE-0074D9?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2ECC71?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 </div>
 
 ---
 
-### 👑 About Me
+### 👤 Professional Summary
 
-```yaml
-name: "Muhammad Faizan Farooq"
-role: ["Data Scientist", "Machine Learning Engineer", "Data Analyst"]
-education: "BSCS - Government College University Faisalabad (2024)"
-experience: "2+ Years in Machine Learning & AI"
-location: "Jhang Sadar, Punjab, Pakistan"
-focus: ["Deep Learning", "Computer Vision", "Agentic AI", "API Development"]
-currently_learning: "FastAPI"
-fun_fact: "Turning data into decisions, one model at a time ⚡"
-```
+I am a Data Scientist and Machine Learning Engineer with over two years of hands-on experience building intelligent, data-driven solutions. I hold a Bachelor's degree in Computer Science from Government College University Faisalabad, completed in 2024, and I am based in Jhang Sadar, Punjab, Pakistan.
+
+My work is centered on deep learning, computer vision, and agentic AI systems, with a strong foundation in building and deploying machine learning models end to end. I am currently expanding my expertise in FastAPI to strengthen my backend and API development skills. I approach every project with discipline, curiosity, and a commitment to writing clean, production-ready code.
 
 <div align="center">
 
@@ -58,10 +51,10 @@ fun_fact: "Turning data into decisions, one model at a time ⚡"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizanjutt473&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=00F7FF&text_color=C9D1D9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanjutt473&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizanjutt473&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=0074D9&icon_color=7FDBFF&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanjutt473&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0074D9&text_color=C9D1D9" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanjutt473&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=00F7FF&currStreakLabel=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanjutt473&theme=tokyonight&hide_border=true&background=0D1117&ring=0074D9&fire=7FDBFF&currStreakLabel=0074D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" />
 
 </div>
 
@@ -71,7 +64,7 @@ fun_fact: "Turning data into decisions, one model at a time ⚡"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanjutt473&theme=react-dark&bg_color=0D1117&color=FFD700&line=00F7FF&point=FFFFFF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanjutt473&theme=react-dark&bg_color=0D1117&color=0074D9&line=7FDBFF&point=FFFFFF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -81,7 +74,7 @@ fun_fact: "Turning data into decisions, one model at a time ⚡"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=faizanjutt473&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=faizanjutt473&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
@@ -89,7 +82,7 @@ fun_fact: "Turning data into decisions, one model at a time ⚡"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0074D9,50:003B6F,100:001F3F&height=150&section=footer"/>
 
 **⭐ From [faizanjutt473](https://github.com/faizanjutt473) — Let's build something intelligent together!**
 
