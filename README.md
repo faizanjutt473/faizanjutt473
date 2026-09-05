@@ -61,8 +61,8 @@ My work is centered on deep learning, computer vision, and agentic AI systems, w
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanjutt473&theme=tokyonight&hide_border=true&background=1B1464&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&cache_seconds=1800" />
 
 </div>
-                                 
-                                 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizanjutt473).
+                              [Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizanjutt473)    
+                               
                                  
 </div>
 ---
