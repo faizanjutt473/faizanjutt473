@@ -26,7 +26,7 @@ My work is centered on deep learning, computer vision, and agentic AI systems, w
 
 <div align="center">
 
-📫 **Reach me:** [📧 Email](mailto:faizanprogrammer12@gmail.com) &nbsp;|&nbsp; [📱 WhatsApp](https://wa.me/qr/RKE3NUZ4L6I5M1) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/muhammad-faizan-farooq-8bab35372) &nbsp;|&nbsp; [🐙 GitHub](https://github.com/faizanjutt473)
+📫 **Reach me:** [📧 Email](mailto:faizanprogrammer12@gmail.com) &nbsp;|&nbsp; [📱 WhatsApp](https://wa.me/qr/RKE3NUZ4L6I5M1) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/muhammad-faizan-farooq-8bab35372) &nbsp;|&nbsp; [🐙 GitHub]
 
 </div>
 
@@ -62,7 +62,7 @@ My work is centered on deep learning, computer vision, and agentic AI systems, w
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanjutt473&theme=tokyonight&hide_border=true&background=1B1464&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&cache_seconds=1800" />
 
 </div>
-
+(https://github.com/faizanjutt473)
 ---
 
 ### 📈 Contribution Graph
