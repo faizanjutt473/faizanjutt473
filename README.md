@@ -26,7 +26,7 @@ My work is centered on deep learning, computer vision, and agentic AI systems, w
 
 <div align="center">
 
-📫 **Reach me:** [📧 Email](mailto:faizanprogrammer12@gmail.com) &nbsp;|&nbsp; [📱 WhatsApp](https://wa.me/qr/RKE3NUZ4L6I5M1) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/muhammad-faizan-farooq-8bab35372) &nbsp;|&nbsp; [🐙 GitHub]
+📫 **Reach me:** [📧 Email](mailto:faizanprogrammer12@gmail.com) &nbsp;|&nbsp; [📱 WhatsApp](https://wa.me/qr/RKE3NUZ4L6I5M1) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/muhammad-faizan-farooq-8bab35372) &nbsp;|&nbsp; [🐙 GitHub](https://github.com/faizanjutt473)
 
 </div>
 
@@ -44,66 +44,4 @@ My work is centered on deep learning, computer vision, and agentic AI systems, w
 <br>
 <img src="https://img.shields.io/badge/FastAPI-4B0082?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
 <img src="https://img.shields.io/badge/Pandas-4B0082?style=for-the-badge&logo=pandas&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/NumPy-4B0082?style=for-the-badge&logo=numpy&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Streamlit-4B0082?style=for-the-badge&logo=streamlit&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=00D9FF"/>
- 
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=faizanjutt473&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1B1464&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanjutt473&layout=compact&theme=tokyonight&hide_border=true&bg_color=1B1464&title_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanjutt473&theme=tokyonight&hide_border=true&background=1B1464&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&cache_seconds=1800" />
-
-</div>
-                              [Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizanjutt473)    
-                               
-                                 
-</div>
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanjutt473&theme=react-dark&bg_color=1B1464&color=00D9FF&line=4B0082&point=FFFFFF&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### 🐍 Daily Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/faizanjutt473/faizanjutt473/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=faizanjutt473&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7&title=00D9FF" />
-
-</div>
-
----
-
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-03156508646-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/RKE3NUZ4L6I5M1)
-<img src="https://img.shields.io/badge/Email-faizanprogrammer12%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1464,35:9B59B6,70:6A0DAD,100:2E0854&height=150&section=footer"/>
-
-**⭐ From [faizanjutt473](https://github.com/faizanjutt473) — Let's build something intelligent together!**
-
-</div>
+<img src="https://img.shields.io/badge/NumPy-4B0082?style=for-the-badge&logo=numpy&logoColor=
