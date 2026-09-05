@@ -47,7 +47,7 @@ My work is centered on deep learning, computer vision, and agentic AI systems, w
 <img src="https://img.shields.io/badge/NumPy-4B0082?style=for-the-badge&logo=numpy&logoColor=00D9FF"/>
 <img src="https://img.shields.io/badge/Streamlit-4B0082?style=for-the-badge&logo=streamlit&logoColor=00D9FF"/>
 <img src="https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=00D9FF"/>
-
+ ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizanjutt473).
 </div>
 
 ---
