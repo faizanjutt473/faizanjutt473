@@ -100,3 +100,18 @@ My work is centered on deep learning, computer vision, and agentic AI systems, w
 ---
 
 <div align="center">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=faizanjutt473&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7&title=00D9FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1464,35:9B59B6,70:6A0DAD,100:2E0854&height=120&section=footer" width="100%"/>
+
+**Thanks for visiting my profile! Feel free to connect and collaborate.** ⭐
+
+</div>
