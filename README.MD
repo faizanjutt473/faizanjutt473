@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Muhammad%20Faizan%20Farooq&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20AI%20Engineer&descSize=22&descAlignY=60" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1a1b27,100:3d59a1&height=240&section=header&text=Muhammad%20Faizan%20Farooq&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20AI%20Engineer&descSize=22&descAlignY=60" alt="Header" width="100%"/>
 
 <a href="https://github.com/faizanjutt473">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=760&height=50&lines=Full+Stack+AI+Engineer;Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+Data+Analytics;Building+RAG+and+Agentic+AI+Systems" alt="Typing animation"/>
@@ -145,4 +145,4 @@
 
 <p align="center"><i>Building AI systems that are accurate, explainable and useful.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,55:1a1b27,100:0d1117&height=130&section=footer" alt="Footer" width="100%"/>
